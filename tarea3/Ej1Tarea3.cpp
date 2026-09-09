@@ -1,3 +1,10 @@
+/*E/P/S
+E: las 8 edades
+P: Mostrar los datos ingresados, mostrar la ubicacion de cada dato, edad que queremos buscar
+S: Mostrar si la edad buscada se encuntra en el recorrido y si lo es mostrar su ubicacion, mostrar si la edad no se encuentra*/
+
+
+
 #include <iostream>
 using namespace std;
 int main(){

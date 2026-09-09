@@ -1,3 +1,9 @@
+/*E/P/S
+E: Las 6 cantidades de productos vendidios
+P: Mostrar las cantidades ingresadas, numero que buscar, buscar numero en el arreglo
+S: El numero buscado o si no se encuntra el numero */
+
+
 #include <iostream>
 using namespace std;
 int main(){
