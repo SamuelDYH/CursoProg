@@ -7,7 +7,7 @@ El programa debe mostrar el valor del contador en cada incremento.*/
 #include <iostream>
 using namespace std;
 void leerdato(int &n);
-void contador(int &n, int i);
+void contador(int &n, int &i);
 int main(){
     int n, i;
     i = 0;
@@ -23,7 +23,7 @@ void leerdato(int &n){
         cin >> n;
     }
 }
-void contador(int &n, int i){
+void contador(int &n, int &i){
     cout << "Contador" << endl;
     for ( i = 0; i <= n; i++)
     {
