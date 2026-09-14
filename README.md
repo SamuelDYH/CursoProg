@@ -1,10 +1,15 @@
-# Bootcamp Programacion de Cero a Pooo
+# Realizacion De Mini Proyecto
+## Registrode juegos
 ## Descrpcion 
-Este repositorio corresponde al bootcamo **Programacion de cero a Poo*, un curso virtusl rn vivo orientado a estudiantes que estan iniciado en programacion y desean construir una base solida antes de avanzar hacia la programacion orientada a objetos
-El enfoque del bootcamp sigue una progresion academica patactica: 
-**logica de programacion - diagramas- pseudocodigo - c++
-## Objetos del repositorio
-Este repositorio tiene como objetivo organizar y almacenar el materia, ejercicios, practicas y proyectos 
-## Contenido del curso 
-## Estructura del repositorio
-este repositorio puede seguir creciendo
+En este proyecto vamos a registrar maximo hasta 20 videojuegos, donde podremos observar:
+1.Cuantos juegos tenemos registrados. 
+2.Buscar cual juego deseamos jugar
+3.Observar cuantos juegos nos quedan por disfrutar
+4.Tipo de sesion el la que estamos dependiendo del tiempo de juego que seleccionemos.
+## Explicacion de la funcion creativa
+En esta funcion depedndio del tiempó que escojamos, iniciara un tipo de sesion con el numero de horas con las que cuentas
+## Instruciones 
+Primero seleccionamos la primera opcion para registrar nuestros juegos 
+Segundo seleccionamos la opcion que deseamos observar
+## Autor
+Samuel Yepez
